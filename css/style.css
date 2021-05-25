@@ -91,7 +91,7 @@ p {
 }
 .link {
 	display: block;
-	justify-content: space-between;
+	justify-content: center;
 }
 .redes{
 	background-color: #fafafa;
