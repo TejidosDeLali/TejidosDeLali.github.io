@@ -98,6 +98,8 @@ p {
 	box-shadow: 0 0 16px #e65a7a;
 }
 .buttons {
+        display: flex;
+	justify-content: center;
 	background-color: #eb1365;
 	color: white;
 	font-family: verdana;
