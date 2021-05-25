@@ -1,6 +1,8 @@
 element.sytle{
+}
 head {
 	display: none;
+}
 meta {
 	display: none;
 }
@@ -9,8 +11,7 @@ title {
 }
 link {
 	display: none;
-	}
-	}
+}
 body { 
 	display: none;
 	background-color: #fae1e7;
@@ -94,5 +95,4 @@ footer {
 	display: block;
 	background-color: pink;
 	text-align: center;
-}
 }
