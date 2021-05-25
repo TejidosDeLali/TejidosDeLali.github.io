@@ -90,7 +90,7 @@ p {
 	margin: 10px;
 }
 .link {
-	display: flex;
+	display: block;
 	justify-content: center;
 }
 .redes{
