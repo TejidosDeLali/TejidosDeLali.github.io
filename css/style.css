@@ -111,6 +111,8 @@ p {
 	margin: 10px;
 }
 footer {
+        display: flex;
+	justify-content: center;
 	display: block;
 	background-color: pink;
 	text-align: center;
