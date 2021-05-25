@@ -15,8 +15,6 @@ div {
 	font-weight: bold;
 }
 .banner {
-	display: block;
-	justify-content: center;
 	background-size: cover;
 	padding: 50px 0;
 	border-radius: 5px;
